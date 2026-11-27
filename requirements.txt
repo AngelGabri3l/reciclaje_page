@@ -10,4 +10,4 @@ cryptography==50.0.2
 cffi==2.1.1
 pycparser==3.12
 gunicorn==26.2.0
-packaging==26.3
+packaging==26.4
